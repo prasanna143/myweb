@@ -1,6 +1,6 @@
 FROM jenkins
 
-MAINTAINER "pramod"
+MAINTAINER "prassu"
 
 USER root
 
